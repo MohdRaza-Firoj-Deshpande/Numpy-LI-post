@@ -1,2 +1,2 @@
-# Numpy-LI-post
+# Numpy-LI
 Numpy linkendin post code
